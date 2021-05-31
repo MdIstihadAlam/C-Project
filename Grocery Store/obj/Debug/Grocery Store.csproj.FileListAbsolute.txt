@@ -1,0 +1,42 @@
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.config
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Grocery Store.pdb
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csprojAssemblyReference.cache
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Form1.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Properties.Resources.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Splash.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.GenerateResource.cache
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.CoreCompileInputs.cache
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.pdb
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Database1.mdf
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Database1_log.ldf
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.CategoryForm.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Product.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.SellerForm.resources
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.SellingForm.resources
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.manifest
+F:\C#\Grocery Store\Grocery Store\bin\Debug\Grocery Store.application
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe.manifest
+F:\C#\Grocery Store\Grocery Store\obj\Debug\Grocery Store.application
+G:\Grocery Store\Grocery Store\bin\Debug\Database1.mdf
+G:\Grocery Store\Grocery Store\bin\Debug\Database1_log.ldf
+G:\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.config
+G:\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.manifest
+G:\Grocery Store\Grocery Store\bin\Debug\Grocery Store.application
+G:\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe
+G:\Grocery Store\Grocery Store\bin\Debug\Grocery Store.pdb
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csprojAssemblyReference.cache
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.CategoryForm.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Form1.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Product.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Properties.Resources.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.SellerForm.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.SellingForm.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery_Store.Splash.resources
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.GenerateResource.cache
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.csproj.CoreCompileInputs.cache
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe.manifest
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.application
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.exe
+G:\Grocery Store\Grocery Store\obj\Debug\Grocery Store.pdb
